@@ -1,4 +1,4 @@
-# 🖥️ Apache + PHP + MySQL Setup Guide
+# 🖥️ Apache + PHP Setup 
 
 This guide walks you through setting up an Apache server with PHP and testing a MySQL connection using a simple PHP script.
 

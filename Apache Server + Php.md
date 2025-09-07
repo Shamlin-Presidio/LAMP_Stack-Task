@@ -61,4 +61,4 @@ if ($conn && $conn->connect_errno == 0) {
 
 ## Step 4: Test the Setup
 
-http://<apaceh.server.public.ip>/dbtest.php
+http://<apache.server.public.ip>/dbtest.php
